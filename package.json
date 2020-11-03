@@ -1,0 +1,17 @@
+{
+  "name": "stringCalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringCalculator.js",
+  "scripts": {
+    "start": "node stringCalculator.js",
+    "test": "jest --watchAll --coverage --coverageReporters=text"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
